@@ -1,5 +1,5 @@
 #!/bin/sh
-#
+# 
 # Bootstraps Cadmium for Linux.
 
 CADMIUM_ENV_FILE=~/.env-cadmium
